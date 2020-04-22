@@ -11,6 +11,7 @@
     <title>Pagina Personal - Ivan</title>
     <link rel="stylesheet" href="../css/styles.css">
     <link rel="stylesheet" href="../css/animate.css">
+    <link rel="stylesheet" href="../css/aos.css">
     <script
         src="https://code.jquery.com/jquery-3.3.1.js"
         integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
@@ -33,7 +34,26 @@
             <div class="principal"><h1 class="animated infinite pulse">Bienvenido</h1></div>
         </div>
     </div>
-    
+
+    <div class="section-a">
+        <div class="container">
+            <div class="row">
+                <div data-aos="fade-up-right"  class="col-md-2 col-md-offset-4">
+                    <img src="imagenes/me.png" class="animated infinite pulse">
+                </div>
+                <div data-aos="fade-up-left" class="col-md-2">
+                    <img  src="imagenes/happy2.png" class="animated infinite pulse">
+                </div>
+                <div id="creditos" data-aos="zoom-in">
+                    <div class="container">
+                        <h1>Arte por <a href="https://twitter.com/Linishav" target="_blank"> <i class="fa fa-twitter-square"></i>Linisha</a></h1>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="section-contacto">
         <div class="container">
             <div class="row">
@@ -54,6 +74,14 @@
 
     <footer id="footer"></footer>
     
+
+    <script src="scripts/aos.js"></script>
+    <script type="text/javascript">
+        AOS.init({
+            offset: 200,
+            duration: 1000,
+        });
+    </script>
 </body>
 
 </html>
