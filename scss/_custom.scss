@@ -64,8 +64,6 @@ footer{
                 margin-bottom: 20px;
             }
         }
-        
-
     }
 }
 
@@ -114,6 +112,13 @@ footer{
         width:100%;
     }
 
+    #me{
+        width:20%;
+        height: 20%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
     .sidenav {
         width: 130px;
         position: fixed;
@@ -154,6 +159,11 @@ footer{
     background-image: url(../imagenes/china1.jpg);
     background-size: cover;
     background-position: center;
+
+    img{
+        width:100%;
+        height: 100%;
+    }
 }
 
 .section-objetivos{
@@ -161,6 +171,11 @@ footer{
     background-image: url(../imagenes/korea3.jpg);
     background-size: cover;
     background-position: center;
+
+    img{
+        width:100%;
+        height: 100%;
+    }
 }
 
 .section-pasatiempos{
@@ -168,13 +183,9 @@ footer{
     background-image: url(../imagenes/korea5.jpg);
     background-size: cover;
     background-position: center;
+
+    img{
+        width:100%;
+        height: 100%;
+    }
 }
-
-  
-
-  
-  
-
-  
-
-
