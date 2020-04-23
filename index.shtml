@@ -8,7 +8,7 @@
     <!-- <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors"> -->
     <!-- <meta name="generator" content="Jekyll v3.8.6"> -->
-    <title>Pagina Personal - Ivan</title>
+    <title>Pagina Personal</title>
     <link rel="stylesheet" href="../css/styles.css">
     <link rel="stylesheet" href="../css/animate.css">
     <link rel="stylesheet" href="../css/aos.css">
@@ -26,7 +26,7 @@
 </head>
 
 <body>
-    <header id="header"></header>
+    <!--#include virtual="header.shtml" -->
 
     <div class="section-bg">
         <div class="load"></div>
@@ -72,7 +72,7 @@
         </div>
     </div>
 
-    <footer id="footer"></footer>
+    <!--#include virtual="footer.shtml" -->
     
 
     <script src="scripts/aos.js"></script>

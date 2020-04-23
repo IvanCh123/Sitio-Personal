@@ -8,7 +8,7 @@
     <!-- <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors"> -->
     <!-- <meta name="generator" content="Jekyll v3.8.6"> -->
-    <title>Pagina Personal - Ivan</title>
+    <title>Pagina Personal | Acerca</title>
     <link rel="stylesheet" href="../css/styles.css">
     <link rel="stylesheet" href="../css/animate.css">
 
@@ -26,15 +26,18 @@
 </head>
 
 <body>
-    <header id="header"></header>
+    <!--#include virtual="header.shtml" -->
 
-    <div class="section-pasatiempos">
+    <div class="section-acerca">
       <div class="container">
         <div class="row">
+          <div id="me" class="col-md-4 col-md-offset-1">
+            <img class="animated rollIn" src="imagenes/me4.png">
+          </div>
           <div class="col-md-5 col-md-offset-1">
             <div class="panel panel-default">
               <div class="panel-heading">
-                <h4 class="panel-title">Pasatiempos</h4>
+                <h4 class="panel-title">Acerca de este sitio</h4>
               </div>
               <div class="panel-body">
                 <p>
@@ -62,15 +65,12 @@
               </div>
             </div>
           </div>
-          <div id="me" class="col-md-4 col-md-offset-1">
-            <img class="animated lightSpeedIn" src="imagenes/me6.png">
-          </div>
+
         </div>
       </div>
     </div>
 
-    <footer id="footer"></footer>
-
+    <!--#include virtual="footer.shtml" -->
 </body>
 
 </html>

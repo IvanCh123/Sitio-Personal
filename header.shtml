@@ -1,6 +1,7 @@
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-    
-<nav class="navbar-default">
+
+<header>
+  <nav class="navbar-default">
     <div class="container">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -9,15 +10,15 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a id="sitio-personal" class="navbar-brand" href="index.html">Sitio Personal</a>
+        <a id="sitio-personal" class="navbar-brand" href="index.shtml">Sitio Personal</a>
       </div>
       <div id="navbar" class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
-          <li><a href="index.html">Página Principal</a></li>
-          <li><a href="objetivos.html">Mis objetivos</a></li>
-          <li><a href="computacion.html">Computacion</a></li>
-          <li><a href="pasatiempos.html">Pasatiempos</a></li>
-          <li><a href="acerca.html">Acerca de</a></li>
+          <li><a href="index.shtml">Página Principal</a></li>
+          <li><a href="objetivos.shtml">Mis objetivos</a></li>
+          <li><a href="computacion.shtml">Computacion</a></li>
+          <li><a href="pasatiempos.shtml">Pasatiempos</a></li>
+          <li><a href="acerca.shtml">Acerca de</a></li>
         </ul>
         <ul id="github" class="nav navbar-nav navbar-right">
           <li><a href="https://github.com/IvanCh123" target="_blank"> <i class="fa fa-github"></i> </a></li>
@@ -25,7 +26,8 @@
       </ul>
       </div><!--/.nav-collapse -->
     </div>
-</nav>
+  </nav>
+</header>
 
 <script src="bower_components/bootstrap-sass/assets/javascripts/bootstrap.js"></script>
 <script src="bower_components/jquery/dist/jquery.js"></script>

@@ -8,7 +8,7 @@
     <!-- <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors"> -->
     <!-- <meta name="generator" content="Jekyll v3.8.6"> -->
-    <title>Pagina Personal - Ivan</title>
+    <title>Pagina Personal | Computación</title>
     <link rel="stylesheet" href="../css/styles.css">
     <link rel="stylesheet" href="../css/animate.css">
     <script
@@ -25,18 +25,9 @@
 </head>
 
 <body>
-    <header id="header"></header>
+    <!--#include virtual="header.shtml" -->
 
     <div class="section-comp">
-        <div class="container">
-          <div class="sidenav">
-            <a href="#porque">Por qué computación</a>
-            <a href="#cursos">Cursos</a>
-            <a href="#escuela">Escuela</a>
-            <a href="#descargas">Descargas</a>
-          </div>
-        </div>
-
         <div class="container">
           <div class="row">
             <div class="col-md-5 col-md-offset-1">
@@ -140,11 +131,7 @@
         </div>
     </div>
 
-    <footer id="footer"></footer>
-
-    <script src="bower_components/bootstrap-sass/assets/javascripts/bootstrap.js"></script>
-    <script src="bower_components/jquery/dist/jquery.js"></script>
-
+    <!--#include virtual="footer.shtml" -->
 </body>
 
 </html>
