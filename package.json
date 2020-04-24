@@ -1,0 +1,23 @@
+{
+  "name": "Sitio-Personal",
+  "version": "1.0.0",
+  "description": "Este trabajo consiste en diseñar y programar un sitio web para uso personal.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanCh123/Sitio-Personal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanCh123/Sitio-Personal/issues"
+  },
+  "homepage": "https://IvanCh123.github.io/Sitio-Personal",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
