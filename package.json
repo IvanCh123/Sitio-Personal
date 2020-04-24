@@ -4,18 +4,11 @@
   "description": "Este trabajo consiste en diseñar y programar un sitio web para uso personal.",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d dist"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/IvanCh123/website.git"
+    "deply": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/IvanCh123/website/issues"
-  },
   "homepage": "https://IvanCh123.github.io/website",
   "dependencies": {
     "gh-pages": "^2.2.0"
