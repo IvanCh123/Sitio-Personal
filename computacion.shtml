@@ -2,136 +2,121 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE-edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- <meta name="description" content="">
-    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors"> -->
-    <!-- <meta name="generator" content="Jekyll v3.8.6"> -->
-    <title>Pagina Personal | Computación</title>
-    <link rel="stylesheet" href="../css/styles.css">
-    <link rel="stylesheet" href="../css/animate.css">
-    <script
-        src="https://code.jquery.com/jquery-3.3.1.js"
-        integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
-        crossorigin="anonymous">
-    </script>
-    <script> 
-        $(function(){
-        $("#header").load("header.html"); 
-        $("#footer").load("footer.html"); 
-        });
-    </script> 
+    <!--#include virtual="head.shtml" -->
 </head>
 
 <body>
-    <!--#include virtual="header.shtml" -->
+    <header>
+      <!--#include virtual="header.shtml" -->
+    </header>
 
     <div class="section-comp">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-5 col-md-offset-1">
-              <div class="panel panel-default">
-                <div class="panel-heading">
-                  <h4 class="panel-title" id="porque">Por qué computación</h4>
-                </div>
-                <div class="panel-body">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse 
-                    nec risus id ipsum rutrum tincidunt sit amet at nisl. Fusce imperdiet 
-                    tincidunt ultrices. Sed quis ipsum ex. Quisque vestibulum, sapien eget 
-                    egestas fermentum, quam enim accumsan tellus, vitae lobortis diam mauris 
-                    at neque. Cras cursus enim non augue fringilla scelerisque. Maecenas malesuada 
-                    quam nec neque bibendum vulputate. In elit felis, molestie eget congue sit amet, 
-                    consequat nec dui. Etiam fermentum sodales faucibus. Ut aliquet sit amet mauris 
-                    sit amet mattis. Integer aliquam facilisis commodo.
-                  </p>
-                </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-5 col-md-offset-1">
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h4 class="panel-title" id="porque">Por qué computación</h4>
               </div>
-            </div>
-            <div class="col-md-5 col-md-offset-1">
-              <img src="imagenes/computing1.jpg">
-            </div>
-          </div>
-
-          <div class="row">
-              <div class="col-md-5 col-md-offset-1">
-                <img src="imagenes/computing3.jpg">
-              </div>
-              <div class="col-md-5 col-md-offset-1">
-                <div class="panel panel-default">
-                  <div class="panel-heading">
-                    <h4 class="panel-title" id="cursos">Cursos preferidos</h4>
-                  </div>
-                  <div class="panel-body">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nec risus 
-                      id ipsum rutrum tincidunt sit amet at nisl. Fusce imperdiet tincidunt ultrices. 
-                      Sed quis ipsum ex. Quisque vestibulum, sapien eget egestas fermentum, 
-                      quam enim accumsan tellus, vitae lobortis diam mauris at neque. 
-                      Cras cursus enim non augue fringilla scelerisque. Maecenas malesuada 
-                      quam nec neque bibendum vulputate. In elit felis, molestie eget congue sit amet, 
-                      consequat nec dui. Etiam fermentum sodales faucibus. Ut aliquet sit amet mauris sit 
-                      amet mattis. Integer aliquam facilisis commodo.
-                    </p>
-                  </div>
-                </div>
-              </div>
-          </div>
-          
-          <div class="row">
-            <div class="col-md-5 col-md-offset-1">
-              <div class="panel panel-default">
-                <div class="panel-heading">
-                  <h4 class="panel-title" id="escuela">Mis profesores y compañeros</h4>
-                </div>
-                <div class="panel-body">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nec risus 
-                    id ipsum rutrum tincidunt sit amet at nisl. Fusce imperdiet tincidunt ultrices. 
-                    Sed quis ipsum ex. Quisque vestibulum, sapien eget egestas fermentum, 
-                    quam enim accumsan tellus, vitae lobortis diam mauris at neque. 
-                    Cras cursus enim non augue fringilla scelerisque. Maecenas malesuada 
-                    quam nec neque bibendum vulputate. In elit felis, molestie eget congue sit amet, 
-                    consequat nec dui. Etiam fermentum sodales faucibus. Ut aliquet sit amet mauris sit 
-                    amet mattis. Integer aliquam facilisis commodo.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-5 col-md-offset-1">
-              <img src="imagenes/escuela.jpeg">
-            </div>
-          </div>
-
-          <div class="row">
-            <div class="col-md-5 col-md-offset-1">
-              <img src="imagenes/computing2.jpg">
-            </div>
-            <div class="col-md-5 col-md-offset-1">
-              <div class="panel panel-default">
-                <div class="panel-heading">
-                  <h4 class="panel-title" id="descargas">Descargas</h4>
-                </div>
-                <div class="panel-body">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nec risus 
-                    id ipsum rutrum tincidunt sit amet at nisl. Fusce imperdiet tincidunt ultrices. 
-                    Sed quis ipsum ex. Quisque vestibulum, sapien eget egestas fermentum, 
-                    quam enim accumsan tellus, vitae lobortis diam mauris at neque. 
-                    Cras cursus enim non augue fringilla scelerisque. Maecenas malesuada 
-                    quam nec neque bibendum vulputate. In elit felis, molestie eget congue sit amet, 
-                    consequat nec dui. Etiam fermentum sodales faucibus. Ut aliquet sit amet mauris sit 
-                    amet mattis. Integer aliquam facilisis commodo.
-                  </p>
-                </div>
+              <div class="panel-body">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse 
+                  nec risus id ipsum rutrum tincidunt sit amet at nisl. Fusce imperdiet 
+                  tincidunt ultrices. Sed quis ipsum ex. Quisque vestibulum, sapien eget 
+                  egestas fermentum, quam enim accumsan tellus, vitae lobortis diam mauris 
+                  at neque. Cras cursus enim non augue fringilla scelerisque. Maecenas malesuada 
+                  quam nec neque bibendum vulputate. In elit felis, molestie eget congue sit amet, 
+                  consequat nec dui. Etiam fermentum sodales faucibus. Ut aliquet sit amet mauris 
+                  sit amet mattis. Integer aliquam facilisis commodo.
+                </p>
               </div>
             </div>
           </div>
-
-          <div id="me" class="row">
-            <img src="imagenes/me3.png" class="animated infinite flip">
+          <div class="col-md-5 col-md-offset-1">
+            <img src="imagenes/computing1.jpg">
           </div>
         </div>
+
+        <div class="row">
+            <div class="col-md-5 col-md-offset-1">
+              <img src="imagenes/computing3.jpg">
+            </div>
+            <div class="col-md-5 col-md-offset-1">
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4 class="panel-title" id="cursos">Cursos preferidos</h4>
+                </div>
+                <div class="panel-body">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nec risus 
+                    id ipsum rutrum tincidunt sit amet at nisl. Fusce imperdiet tincidunt ultrices. 
+                    Sed quis ipsum ex. Quisque vestibulum, sapien eget egestas fermentum, 
+                    quam enim accumsan tellus, vitae lobortis diam mauris at neque. 
+                    Cras cursus enim non augue fringilla scelerisque. Maecenas malesuada 
+                    quam nec neque bibendum vulputate. In elit felis, molestie eget congue sit amet, 
+                    consequat nec dui. Etiam fermentum sodales faucibus. Ut aliquet sit amet mauris sit 
+                    amet mattis. Integer aliquam facilisis commodo.
+                  </p>
+                </div>
+              </div>
+            </div>
+        </div>
+        
+        <div class="row">
+          <div class="col-md-5 col-md-offset-1">
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h4 class="panel-title" id="escuela">Mis profesores y compañeros</h4>
+              </div>
+              <div class="panel-body">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nec risus 
+                  id ipsum rutrum tincidunt sit amet at nisl. Fusce imperdiet tincidunt ultrices. 
+                  Sed quis ipsum ex. Quisque vestibulum, sapien eget egestas fermentum, 
+                  quam enim accumsan tellus, vitae lobortis diam mauris at neque. 
+                  Cras cursus enim non augue fringilla scelerisque. Maecenas malesuada 
+                  quam nec neque bibendum vulputate. In elit felis, molestie eget congue sit amet, 
+                  consequat nec dui. Etiam fermentum sodales faucibus. Ut aliquet sit amet mauris sit 
+                  amet mattis. Integer aliquam facilisis commodo.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-5 col-md-offset-1">
+            <img src="imagenes/escuela.jpeg">
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-5 col-md-offset-1">
+            <img src="imagenes/computing2.jpg">
+          </div>
+          <div class="col-md-5 col-md-offset-1">
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h4 class="panel-title" id="descargas">Descargas</h4>
+              </div>
+              <div class="panel-body">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nec risus 
+                  id ipsum rutrum tincidunt sit amet at nisl. Fusce imperdiet tincidunt ultrices. 
+                  Sed quis ipsum ex. Quisque vestibulum, sapien eget egestas fermentum, 
+                  quam enim accumsan tellus, vitae lobortis diam mauris at neque. 
+                  Cras cursus enim non augue fringilla scelerisque. Maecenas malesuada 
+                  quam nec neque bibendum vulputate. In elit felis, molestie eget congue sit amet, 
+                  consequat nec dui. Etiam fermentum sodales faucibus. Ut aliquet sit amet mauris sit 
+                  amet mattis. Integer aliquam facilisis commodo.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div id="me" class="row">
+          <img src="imagenes/me3.png" class="animated infinite flip">
+        </div>
+      </div>
     </div>
 
-    <!--#include virtual="footer.shtml" -->
+    <footer>
+      <!--#include virtual="footer.shtml" -->
+    </footer>
 </body>
 
 </html>
