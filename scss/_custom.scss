@@ -175,39 +175,17 @@ footer{
     }
 }
 
-.section-acerca{
-    padding: 30px 0;
-    background-image: url(../imagenes/china1.jpg);
-    background-size: cover;
-    background-position: center;
 
-    #me{
-        padding: 40px 0;
-        width:39%;
-        height: 39%;      
-
-        img{
-            width:100%;
-            height: 100%;
-        }
-    }
-}
 
 .section-objetivos{
     padding: 30px 0;
     background-image: url(../imagenes/korea3.jpg);
     background-size: cover;
     background-position: center;
-
-    #me{
-        padding: 10px 0;
-        width:39%;
-        height: 39%;    
-
-        img{
-            width:100%;
-            height: 100%;
-        }  
+    img{
+        margin-left: auto;
+        margin-right: auto;
+        max-height: 40vmax;
     }
 }
 
@@ -217,15 +195,23 @@ footer{
     background-size: cover;
     background-position: center;
 
-    #me{
-        padding: 20px 0;
-        width:39%;
-        height: 39%; 
-
-        img{
-            width:100%;
-            height: 100%;
-        }     
+    img{
+        margin-left: auto;
+        margin-right: auto;
+        max-height: 40vmax;
     }
 
+}
+
+.section-acerca{
+    padding: 30px 0;
+    background-image: url(../imagenes/china1.jpg);
+    background-size: cover;
+    background-position: center;
+
+    img{
+        margin-left: auto;
+        margin-right: auto;
+        max-height: 30vmax;
+    }
 }
