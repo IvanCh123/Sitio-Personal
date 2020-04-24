@@ -4,7 +4,7 @@
   "description": "Este trabajo consiste en diseñar y programar un sitio web para uso personal.",
   "main": "index.js",
   "scripts": {
-    "deply": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
