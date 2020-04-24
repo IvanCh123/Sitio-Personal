@@ -38,17 +38,15 @@
     <div class="section-a">
         <div class="container">
             <div class="row">
-                <div data-aos="fade-up-right"  class="col-md-2 col-md-offset-4">
-                    <img src="imagenes/me.png" class="animated infinite pulse">
+                <div data-aos="fade-up-right">
+                    <img src="imagenes/mehappy.png" class="animated infinite pulse">
                 </div>
-                <div data-aos="fade-up-left" class="col-md-2">
-                    <img  src="imagenes/happy2.png" class="animated infinite pulse">
-                </div>
+            </div>
+            <div class="row">
                 <div id="creditos" data-aos="zoom-in">
                     <div class="container">
                         <h1>Arte por <a href="https://twitter.com/Linishav" target="_blank"> <i class="fa fa-twitter-square"></i>Linisha</a></h1>
                     </div>
-                    
                 </div>
             </div>
         </div>
@@ -60,12 +58,12 @@
                 <div class="col-md-8 col-md-offset-2">
                     <h2>Póngase en contacto</h2>
                     <hr/>
-                    <form>
-                        <input type="text" class="form-control inout-lg" placeholder="Correo electrónico">
+                    <form action="mailto:ivanucr2017@gmail.com?subject=Contacto+desde+el+sitio+web">
+                        <input type="text" name="name" class="form-control inout-lg" placeholder="Correo electrónico">
                         <br/>
-                        <textarea class="form-control" id="contenidoCorreo" rows="5" placeholder="Contenido"></textarea>
+                        <textarea class="form-control" name="comment" id="contenidoCorreo" rows="5" placeholder="Contenido"></textarea>
                         <br/>
-                        <button class="btn btn-primary btn-lg btn-block">Enviar</button>
+                        <button type="submit" class="btn btn-primary btn-lg btn-block">Enviar</button>
                     </form>
                 </div>
             </div>
