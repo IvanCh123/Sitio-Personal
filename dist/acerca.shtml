@@ -38,7 +38,9 @@
               <div class="panel-body">
                 <p>
                   Este sitio web es parte de una asignación para el curso de Desarrollo De Aplicaciones Web
-                  impartido por el Prof. Braulio Solano en la Universidad de Costa Rica.
+                  impartido por el Prof. Braulio Solano en la Universidad de Costa Rica. El código
+                  fuente de la página están públicos en <a href="https://github.com/IvanCh123/website"> este
+                  repositorio</a>.
                 </p>
                 <p>
                   Recursos utilizados:

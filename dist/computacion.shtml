@@ -33,14 +33,14 @@
                 <h4 class="panel-title" id="porque">Por qué computación</h4>
               </div>
               <div class="panel-body">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse 
-                  nec risus id ipsum rutrum tincidunt sit amet at nisl. Fusce imperdiet 
-                  tincidunt ultrices. Sed quis ipsum ex. Quisque vestibulum, sapien eget 
-                  egestas fermentum, quam enim accumsan tellus, vitae lobortis diam mauris 
-                  at neque. Cras cursus enim non augue fringilla scelerisque. Maecenas malesuada 
-                  quam nec neque bibendum vulputate. In elit felis, molestie eget congue sit amet, 
-                  consequat nec dui. Etiam fermentum sodales faucibus. Ut aliquet sit amet mauris 
-                  sit amet mattis. Integer aliquam facilisis commodo.
+                <p>
+                  Desde que estaba en el colegio siempre fue una persona bastante curiosa,
+                  me gusta mucho saber como las cosas están hechas, por ejemplo, la manera 
+                  en la que Shazam funciona, porque no me entraba en la cabeza, quería saber o 
+                  por lo menos entender un poco toda la lógica que una aplicación/programa de 
+                  esta magnitud tiene. Esta fue la razón principal por la que escogí esta carrera 
+                  cuando entré a la Universidad, aún cuando en su momento no tenía ni idea de lo 
+                  que era programación.  
                 </p>
               </div>
             </div>
@@ -60,14 +60,12 @@
                   <h4 class="panel-title" id="cursos">Cursos preferidos</h4>
                 </div>
                 <div class="panel-body">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nec risus 
-                    id ipsum rutrum tincidunt sit amet at nisl. Fusce imperdiet tincidunt ultrices. 
-                    Sed quis ipsum ex. Quisque vestibulum, sapien eget egestas fermentum, 
-                    quam enim accumsan tellus, vitae lobortis diam mauris at neque. 
-                    Cras cursus enim non augue fringilla scelerisque. Maecenas malesuada 
-                    quam nec neque bibendum vulputate. In elit felis, molestie eget congue sit amet, 
-                    consequat nec dui. Etiam fermentum sodales faucibus. Ut aliquet sit amet mauris sit 
-                    amet mattis. Integer aliquam facilisis commodo.
+                  <p>
+                    <ul>
+                      <li>Programación Paralela y Concurrente</li>
+                      <li>Diseño de Software</li>
+                      <li>Cálculo I y II</li>
+                    </ul>
                   </p>
                 </div>
               </div>
@@ -81,14 +79,26 @@
                 <h4 class="panel-title" id="escuela">Mis profesores y compañeros</h4>
               </div>
               <div class="panel-body">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nec risus 
-                  id ipsum rutrum tincidunt sit amet at nisl. Fusce imperdiet tincidunt ultrices. 
-                  Sed quis ipsum ex. Quisque vestibulum, sapien eget egestas fermentum, 
-                  quam enim accumsan tellus, vitae lobortis diam mauris at neque. 
-                  Cras cursus enim non augue fringilla scelerisque. Maecenas malesuada 
-                  quam nec neque bibendum vulputate. In elit felis, molestie eget congue sit amet, 
-                  consequat nec dui. Etiam fermentum sodales faucibus. Ut aliquet sit amet mauris sit 
-                  amet mattis. Integer aliquam facilisis commodo.
+                <p>
+                  <b>Profesores</b>
+                  <br>
+                  Dentro de los profesores que más he disfrutado y respetado llevar cursos se encuentran:
+                  <ul>
+                    <li>Juan José Vargas</li>
+                    <li>Jeisson Hidalgo Céspedes</li>
+                    <li>Adrián Lara</li>
+                    <li>Luis Quesada</li>
+                  </ul>
+                </p>
+                <p>
+                  <b>Compañeros</b>
+                  <br>
+                  A lo largo de mis cuatro años en la universidad, conocí y fui compañero de muchas
+                  personas. Pero nunca tuve un grupo de compañeros como tal con los que pasar el dia. 
+                  Esto cambió hace dos semestres cuando conocí a un grupo de compañeros bajo el 
+                  nombre de "Froot Loops" que son con los que ahora pasó la mayor parte de mi tiempo 
+                  en la universidad.
+                  </ul> 
                 </p>
               </div>
             </div>
@@ -105,17 +115,22 @@
           <div class="col-md-5 col-md-offset-1">
             <div class="panel panel-default">
               <div class="panel-heading">
-                <h4 class="panel-title" id="descargas">Descargas</h4>
+                <h4 class="panel-title" id="descargas">Descargas / Proyectos interesantes</h4>
               </div>
               <div class="panel-body">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nec risus 
-                  id ipsum rutrum tincidunt sit amet at nisl. Fusce imperdiet tincidunt ultrices. 
-                  Sed quis ipsum ex. Quisque vestibulum, sapien eget egestas fermentum, 
-                  quam enim accumsan tellus, vitae lobortis diam mauris at neque. 
-                  Cras cursus enim non augue fringilla scelerisque. Maecenas malesuada 
-                  quam nec neque bibendum vulputate. In elit felis, molestie eget congue sit amet, 
-                  consequat nec dui. Etiam fermentum sodales faucibus. Ut aliquet sit amet mauris sit 
-                  amet mattis. Integer aliquam facilisis commodo.
+                <p>
+                  En mi <a href="https://github.com/IvanCh123"> perfíl de Github</a> se encuentran
+                  públicos diferentes tipos de proyectos y programas, hasta ejercicios educativos
+                  que he realizado a lo largo de la Universidad.
+                </p>
+                <p>
+                  Entre estos los que encuentro más interesantes personalmente son:
+                  <ul>
+                    <li><a href="https://github.com/IvanCh123/Correlation-Coefficient-Analyzer">Correlation Coefficient Analyzer</a></li>
+                    <li><a href="https://github.com/IvanCh123/Thermal-Transference-Visualizer">Thermal Transference Visualizer</a></li>
+                    <li><a href="https://github.com/IvanCh123/Edificio-Inteligente">Edificio Inteligente</a></li>
+                    <li><a href="https://github.com/IvanCh123/Turing-Machine">Turing Machine</a></li>
+                  </ul>
                 </p>
               </div>
             </div>

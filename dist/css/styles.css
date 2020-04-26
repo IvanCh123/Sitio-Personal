@@ -5879,15 +5879,18 @@ footer {
 .section-comp {
   background: #000000;
   padding: 30px 0; }
-  .section-comp img {
-    width: 70%; }
   .section-comp #me {
     width: 20%;
     height: 20%;
     margin-left: auto;
     margin-right: auto; }
   .section-comp .row {
+    position: relative;
     padding: 20px 0; }
+    .section-comp .row img {
+      width: 70%;
+      margin-left: auto;
+      margin-right: auto; }
 
 .section-objetivos {
   padding: 30px 0;

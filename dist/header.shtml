@@ -20,7 +20,6 @@
       </ul>
       <ul id="github" class="nav navbar-nav navbar-right">
         <li><a href="https://github.com/IvanCh123" target="_blank"> <i class="fa fa-github"></i> </a></li>
-        <li><a href="https://www.facebook.com/Ivanwexd" target="_blank"> <i class="fa fa-facebook"></i> </a></li>
     </ul>
     </div><!--/.nav-collapse -->
   </div>
