@@ -37,26 +37,37 @@
               </div>
               <div class="panel-body">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse 
-                  nec risus id ipsum rutrum tincidunt sit amet at nisl. Fusce imperdiet 
-                  tincidunt ultrices. Sed quis ipsum ex. Quisque vestibulum, sapien eget 
-                  egestas fermentum, quam enim accumsan tellus, vitae lobortis diam mauris at 
-                  neque. Cras cursus enim non augue fringilla scelerisque. Maecenas malesuada 
-                  quam nec neque bibendum vulputate. In elit felis, molestie eget congue sit amet, 
-                  consequat nec dui. Etiam fermentum sodales faucibus. Ut aliquet sit amet mauris 
-                  sit amet mattis. Integer aliquam facilisis commodo.
+                  <b>A corto plazo</b>
+                  <ul>
+                    <li>
+                      Aprender coreano como tercer idioma. Ya tengo mucho conocimiento respecto
+                      a vocabulario, pero la parte más formal y técnica me falta.
+                    </li>
+                    <li>
+                      Graduarme y conseguir un trabajo. Actualmente si contamos el primer semestre de 2020, 
+                      me hacen falta tres para graduarme.
+                    </li>
+                    <li>
+                      Viajar a algún país de Asia. 
+                      Me gustaría ir a China principalmente, tanto como a Corea y Japón.
+                    </li>
+                  </ul>
+                </p>                
+                <p>
+                  <b>A mediano plazo</b>
+                  <ul>
+                    <li>
+                      Independencia económica. Actualmente mis padres proveen toda ayuda 
+                      económica que me haga falta, pero me gustaría poder mantenerme por mi cuenta,
+                      más que todo para que ellos dejen de trabajar y disfruten su vida.
+                    </li>
+                  </ul>
                 </p>
                 <p>
-                  Pellentesque iaculis dictum elit eget blandit. Nunc molestie lacus 
-                  sit amet egestas vestibulum. Ut blandit, orci consectetur egestas vestibulum, 
-                  ipsum justo imperdiet mauris, ut malesuada eros est eu quam. 
-                  Nullam egestas lectus vel augue sagittis, nec sagittis tellus sodales. 
-                  Praesent non mattis nisi. Nam dui justo, volutpat ac eros non, scelerisque 
-                  pretium tortor. Aliquam erat volutpat. Sed eu nisl non nunc mattis suscipit a
-                  t at felis. Aenean non purus ipsum. Nunc quis nisl ut arcu tristique lacinia 
-                  quis eget ex. Nunc viverra efficitur iaculis. Praesent eget risus sed nunc semper 
-                  facilisis et et lorem. Fusce quis congue tortor, vel scelerisque ligula. Fusce 
-                  tincidunt libero cursus consequat fringilla. Nam vel congue quam.
+                  <b>A largo plazo</b>
+                  <ul>
+                    <li>Casarme y tener hijos.</li>
+                  </ul>
                 </p>
               </div>
             </div>
