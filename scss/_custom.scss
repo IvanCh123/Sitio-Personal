@@ -13,11 +13,6 @@ header{
     #sitio-personal{
         background: darken($main-color, 10%); 
     }
-
-    #github{
-        background: darken($main-color, 10%); 
-    }
-    
 }
 
 footer{
@@ -30,6 +25,7 @@ footer{
 .section-bg{
     background-size: cover;
     background-position: center;    
+    background-attachment: fixed;
     animation: slide 40s infinite;
     .load{
         animation: slide 2s;
@@ -125,9 +121,13 @@ footer{
 }
 
 .section-contacto{
+    background-image: url(../imagenes/japan3.jpg);
+    background-size: cover;
+    background-position: center;  
+    background-attachment: fixed;
+
     padding: 30px 0;
     text-align: center;
-    background: $main-color;
     color: set-text-color($main-color);
     font-family: "Comic Sans MS", cursive, sans-serif;
 
@@ -189,6 +189,7 @@ footer{
     background-image: url(../imagenes/china1.jpg);
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
 
     img{
         margin-left: auto;

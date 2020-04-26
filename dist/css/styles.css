@@ -5793,8 +5793,6 @@ header {
     color: #ffffff !important; }
   header #sitio-personal {
     background: #4f3d4f; }
-  header #github {
-    background: #4f3d4f; }
 
 footer {
   padding: 1em;
@@ -5805,6 +5803,7 @@ footer {
 .section-bg {
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
   animation: slide 40s infinite; }
   .section-bg .load {
     animation: slide 2s; }
@@ -5868,9 +5867,12 @@ footer {
   color: #ffffff; }
 
 .section-contacto {
+  background-image: url(../imagenes/japan3.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
   padding: 30px 0;
   text-align: center;
-  background: #6C536C;
   color: #ffffff;
   font-family: "Comic Sans MS", cursive, sans-serif; }
   .section-contacto .btn-primary {
@@ -5916,7 +5918,8 @@ footer {
   padding: 30px 0;
   background-image: url(../imagenes/china1.jpg);
   background-size: cover;
-  background-position: center; }
+  background-position: center;
+  background-repeat: no-repeat; }
   .section-acerca img {
     margin-left: auto;
     margin-right: auto;
